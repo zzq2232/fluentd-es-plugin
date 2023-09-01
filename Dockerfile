@@ -1,4 +1,5 @@
 FROM fluentd:v1.16.0-1.0
+LABEL maintainer="zhangzhongqiqi@126.com"
 
 USER root
 
